@@ -1,0 +1,1 @@
+../demirgb_modules/demirgb_inisetup.py
